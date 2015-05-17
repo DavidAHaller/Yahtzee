@@ -1,6 +1,8 @@
 # Yahtzee
 PSU's SWENG 500: Advanced Software Engineering Studio project for Team Six.
 
+# Lessons
+
 Lesson 2
 The goal for this week is to develop the SRS (Software Requirements Specification) document and write initial test cases.
 
